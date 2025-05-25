@@ -43,8 +43,8 @@ This project was developed solely for academic and research testing purposes. It
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/EchenD/profitable_trading_algorithm.git
+cd profitable_trading_algorithm
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
